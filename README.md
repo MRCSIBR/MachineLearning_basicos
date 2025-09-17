@@ -2,7 +2,11 @@
 
 # Sumando Dos Números con Machine Learning: Técnicas Utilizadas
 
-El aprendizaje automático (machine learning, ML) es una herramienta poderosa que puede aplicarse incluso a tareas aparentemente simples, como sumar dos números. En este artículo, exploraremos las técnicas utilizadas en un script de Python que emplea una red neuronal implementada en PyTorch para aprender a sumar dos números. Este ejercicio, aunque sencillo, ilustra conceptos fundamentales de ML, como la preparación de datos, el diseño de modelos, la optimización y la visualización de resultados. También incluiremos una breve explicación sobre los tensores en PyTorch, un componente clave del script. Este artículo está diseñado para estudiantes que desean comprender los fundamentos del aprendizaje automático a través de un ejemplo práctico.
+El aprendizaje automático (machine learning, ML) es una herramienta poderosa que puede aplicarse incluso a tareas aparentemente simples, como sumar dos números. 
+En este artículo, exploraremos las técnicas utilizadas en un script de Python que emplea una red neuronal implementada en PyTorch para aprender a sumar dos números. 
+
+Este ejercicio, aunque sencillo, ilustra conceptos fundamentales de ML, como la preparación de datos, el diseño de modelos, la optimización y la visualización de resultados. 
+También incluiremos una breve explicación sobre los tensores en PyTorch, un componente clave del script. Este artículo está diseñado para estudiantes que desean comprender los fundamentos del aprendizaje automático a través de un ejemplo práctico.
 
 ## Contexto del Problema
 
